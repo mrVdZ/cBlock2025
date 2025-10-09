@@ -9,10 +9,10 @@ Below is the directory list of this repo ( I'm still editing, so it might change
 - Reference
 
 
-
-- [x] Upload homework for 9/26
 - [ ] Make directories for the folders listed above
-- [ ] TBD
+- [ ] Revisit Terminal/CMD/file structures
+- [ ] For Loops & Scale
+- [ ] Tear some paper
 
 
 
@@ -24,7 +24,7 @@ void setup(){
 }
 
 void draw(){
-     // THis runs as a linear loop 30 frames per second
+     // This runs as a linear loop 30 frames per second
 }
 
 ```
