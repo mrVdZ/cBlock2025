@@ -1,14 +1,9 @@
+/*
 
+This example shows how to write a for loop, using the built-in for() function.
+This example also shows how to write a custom FOR loop, using multiple conditions.
 
-/* 
-Tasks for cominig into class
-
-1. Sketchbook + Pen or Pencil
-2. Create new 
-   processing sketch 
-   called BouncingAround
-
-
+Look how much longer and complicated the bespoke FOR loop is!
 
 */
 
