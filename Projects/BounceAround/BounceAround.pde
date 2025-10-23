@@ -54,7 +54,6 @@ void lsCheckBounds(){
   if(lsYpos >= height){ println("Bottom edge detected"); lsYspd = -lsYspd; println(lsYspd);}
   if(lsYpos <= 0){ println("Top edge detected"); lsYspd = -lsYspd;}
 }
-
 void lsInitialize(){
   lsXpos = width/2;
   lsYpos = height/2;
