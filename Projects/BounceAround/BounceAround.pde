@@ -2,6 +2,8 @@
 
 // This is a sketch about bouncing around a 2D surface
 
+// Hello this is a comment!
+
 void setup(){
   size(1000, 1000);
   lsInitialize();
