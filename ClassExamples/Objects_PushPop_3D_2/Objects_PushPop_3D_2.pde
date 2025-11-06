@@ -8,6 +8,8 @@ void setup()
 
 {
   
+  size(800, 800);
+  background(50, 50, 200);
   
 }
 
@@ -15,6 +17,13 @@ void setup()
 void draw()
 
 {
+  
+  
+  pushMatrix(); // Make a virtual canvas
+  // Make transformations that only affect the virtual canvas
+    fill(255, 180, 100);
+    rect(200, 200, 100, 100);
+  popMatrix(); // Release the virtual canvas that you made
  
   
 }
