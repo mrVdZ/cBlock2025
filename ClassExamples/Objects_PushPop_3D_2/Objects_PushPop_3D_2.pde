@@ -1,6 +1,20 @@
 
 
-// This file should be empty
+// This is an example to show how objects work...
+// but first, we have to se pushMatrix() and popMatrix()
 
-// To see the contents of this file
-//// you must switch GitHub Branches
+
+void setup()
+
+{
+  
+  
+}
+
+
+void draw()
+
+{
+ 
+  
+}
